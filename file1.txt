@@ -2,4 +2,6 @@ Hello world...
 
 change added for 
 
-change to ficx bug1
+change to fix bug1
+
+change to fix bug2
